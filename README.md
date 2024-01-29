@@ -43,4 +43,5 @@ http://3.90.199.225:8080
 ### Jenkins Creds
 
 admin@admin.com
+
 остальное admin
