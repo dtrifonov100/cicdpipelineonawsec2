@@ -1,0 +1,18 @@
+{
+  "name": "cicdpipelineonawsec2",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=W1UQhLuxCo8&list=PLu2WtvQ4VrvZJoQ1UGpWTUCs-MZek8cZH",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
